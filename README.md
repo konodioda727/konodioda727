@@ -7,7 +7,7 @@ I'm konodiada727! I'm a student from **CCNU**📱:, looking to solve **real-worl
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kaiqingliu6@gmail.com)
+[![Gmail](https://img.shields.io/badge/-kb-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kaiqingliu6@gmail.com)
 
 
 ### 💼  Things that I'm currently working on: 
@@ -22,14 +22,14 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 * Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
 * Read:newspaper: Dev and UI articles daily 
 * Workout:weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
+* Avoid spending too much time on Bilibili Entertainment:skull_and_crossbones:
 * Adapting the minimalism life style
 * 🔜
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/konodioda727?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+    <img width="500" height="auto" align="right" alt="konodioda727's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=konodioda727&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=konodioda727&layout=compact" />
