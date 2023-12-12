@@ -32,13 +32,38 @@ const konodioda727 = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C471%20hrs%2019%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-922-blue)
+**🐱 My GitHub Data** 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
+> 📦 35.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 235 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
 
 
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/12/2023 14:02:56 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
