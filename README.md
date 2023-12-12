@@ -63,7 +63,7 @@ const konodioda727 = {
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=konodioda727&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=konodioda727&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://s2.loli.net/2023/12/12/1RCmBVoIQDP2XYt.png" width="195">
+  [![Stats](https://github-readme-stats.vercel.app/api?username=konodioda727&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=konodioda727&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://s2.loli.net/2023/12/12/1RCmBVoIQDP2XYt.png" width="160">
   
 
 <!-- Credit -->
