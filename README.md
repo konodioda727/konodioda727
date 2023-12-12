@@ -1,6 +1,9 @@
 ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=konodioda727&label=Profile%20Visits&color=blue&style=for-the-badge)
 </em></p>
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+  
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
