@@ -32,13 +32,15 @@ const konodioda727 = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 35.4 kB Used in GitHub's Storage 
  > 
-> 🏆 235 Contributions in the Year 2023
+> 🏆 266 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,14 +48,52 @@ const konodioda727 = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I Mostly Code in JavaScript** 
+**I'm a Night 🦉** 
 
 ```text
+🌞 Morning                53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+🌆 Daytime                214 commits         █████████░░░░░░░░░░░░░░░░   37.41 % 
+🌃 Evening                283 commits         ████████████░░░░░░░░░░░░░   49.48 % 
+🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Tuesday                  175 commits         ████████░░░░░░░░░░░░░░░░░   30.59 % 
+Wednesday                102 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Thursday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Friday                   90 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Saturday                 50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
@@ -63,7 +103,7 @@ TypeScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2023 18:32:28 UTC
+ Last Updated on 13/12/2023 18:39:31 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
