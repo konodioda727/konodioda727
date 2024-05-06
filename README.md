@@ -32,78 +32,24 @@ const konodioda727 = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+```rust
+From: 11 December 2023 - To: 05 May 2024
 
-**🐱 My GitHub Data** 
+Total Time: 254 hrs 27 mins
 
-> 📦 49.1 kB Used in GitHub's Storage 
- > 
-> 🏆 13 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-🌆 Daytime                343 commits         ██████████░░░░░░░░░░░░░░░   41.03 % 
-🌃 Evening                364 commits         ███████████░░░░░░░░░░░░░░   43.54 % 
-🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Tuesday                  208 commits         ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-Wednesday                143 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Thursday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Friday                   130 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Saturday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Sunday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+TypeScript                 168 hrs 25 mins >>>>>>>>>>>>>>>>>--------   66.11 %
+JavaScript                 51 hrs 23 mins  >>>>>--------------------   20.17 %
+Less                       8 hrs 10 mins   >------------------------   03.21 %
+JSON                       6 hrs 29 mins   >------------------------   02.55 %
+HTML                       5 hrs 51 mins   >------------------------   02.30 %
+Markdown                   4 hrs 55 mins   -------------------------   01.94 %
+Python                     1 hr 51 mins    -------------------------   00.73 %
+CSS                        1 hr 18 mins    -------------------------   00.51 %
+Vue.js                     1 hr 10 mins    -------------------------   00.46 %
+YAML                       1 hr 6 mins     -------------------------   00.43 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
-
-
- Last Updated on 10/01/2024 18:40:14 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
