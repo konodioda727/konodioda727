@@ -32,15 +32,13 @@ const konodioda727 = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 49.0 kB Used in GitHub's Storage 
- > 
-> 🏆 212 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,7 +111,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2024 08:09:09 UTC
+ Last Updated on 06/05/2024 18:36:27 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
