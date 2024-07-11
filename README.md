@@ -34,7 +34,7 @@ const konodioda727 = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -110,7 +110,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2024 18:40:34 UTC
+ Last Updated on 11/07/2024 18:39:06 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
