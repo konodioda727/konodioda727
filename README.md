@@ -32,13 +32,13 @@ const konodioda727 = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%203%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 60.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,47 +46,6 @@ const konodioda727 = {
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-🌆 Daytime                893 commits         ██████████░░░░░░░░░░░░░░░   40.55 % 
-🌃 Evening                782 commits         █████████░░░░░░░░░░░░░░░░   35.51 % 
-🌙 Night                  301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   396 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Tuesday                  434 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Wednesday                264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Thursday                 253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Friday                   296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Saturday                 295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Sunday                   264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               43 mins             ███████████████████░░░░░░   74.01 % 
-JSON                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-
-🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ccnu_coursetable         59 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      59 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -104,7 +63,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2025 18:43:20 UTC
+ Last Updated on 15/02/2025 18:40:02 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
