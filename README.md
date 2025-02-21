@@ -34,13 +34,11 @@ const konodioda727 = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 60.5 kB Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,19 +73,16 @@ Sunday                   264 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               34 mins             ███████████████░░░░░░░░░░   60.05 % 
-JavaScript               22 mins             ██████████░░░░░░░░░░░░░░░   39.95 % 
+JavaScript               22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  34 mins             ███████████████░░░░░░░░░░   60.05 % 
-Cursor                   22 mins             ██████████░░░░░░░░░░░░░░░   39.95 % 
+Cursor                   22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ccnu_coursetable         34 mins             ███████████████░░░░░░░░░░   60.05 % 
-react                    22 mins             ██████████░░░░░░░░░░░░░░░   39.95 % 
+react                    22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      56 mins             █████████████████████████   100.00 % 
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,7 +102,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2025 18:44:36 UTC
+ Last Updated on 21/02/2025 18:44:23 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
