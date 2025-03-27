@@ -32,13 +32,13 @@ const konodioda727 = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 61.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,45 +46,6 @@ const konodioda727 = {
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-🌆 Daytime                1316 commits        ██████████░░░░░░░░░░░░░░░   40.17 % 
-🌃 Evening                1057 commits        ████████░░░░░░░░░░░░░░░░░   32.26 % 
-🌙 Night                  540 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   685 commits         █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Tuesday                  626 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Wednesday                338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Thursday                 369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Friday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Saturday                 473 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Sunday                   446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -102,7 +63,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2025 18:47:43 UTC
+ Last Updated on 27/03/2025 18:47:17 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
