@@ -40,6 +40,8 @@ const konodioda727 = {
 
 > 📦 61.9 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -73,19 +75,16 @@ Sunday                   587 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 25 mins        █████████████████████████   98.26 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-my-react-app             1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,7 +104,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2025 18:45:54 UTC
+ Last Updated on 22/06/2025 18:47:06 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
