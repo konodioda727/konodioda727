@@ -32,7 +32,7 @@ const konodioda727 = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -73,16 +73,22 @@ Sunday                   587 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               58 mins             ██████████████████░░░░░░░   73.50 % 
+Docker                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+C                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Roo-Code                 58 mins             ██████████████████░░░░░░░   73.50 % 
+Unknown Project          17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+tmp                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,7 +108,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2025 18:51:35 UTC
+ Last Updated on 24/06/2025 18:51:24 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
