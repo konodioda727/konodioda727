@@ -73,19 +73,16 @@ Sunday                   603 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Swift                    5 hrs 5 mins        █████████████████████████   99.10 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-VisionOSObjectTrackingDem5 hrs 1 min         ████████████████████████░   97.90 % 
-openimmersive            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,7 +102,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2025 18:48:34 UTC
+ Last Updated on 14/07/2025 18:54:48 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
