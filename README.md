@@ -32,6 +32,8 @@ const konodioda727 = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -44,6 +46,45 @@ const konodioda727 = {
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                554 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+🌆 Daytime                2051 commits        ██████████░░░░░░░░░░░░░░░   39.17 % 
+🌃 Evening                1764 commits        ████████░░░░░░░░░░░░░░░░░   33.69 % 
+🌙 Night                  867 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1014 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Tuesday                  1065 commits        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Wednesday                688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Thursday                 566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Friday                   562 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Saturday                 723 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Sunday                   618 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -61,7 +102,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 18:44:22 UTC
+ Last Updated on 31/08/2025 18:45:03 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
