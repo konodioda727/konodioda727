@@ -75,19 +75,16 @@ Sunday                   634 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 16 mins       ███████████████████████░░   90.23 % 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-amigo                    4 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,7 +104,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2025 18:49:25 UTC
+ Last Updated on 08/10/2025 18:49:43 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
