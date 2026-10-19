@@ -77,22 +77,46 @@ Sunday                   2583 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     55 mins             ████████████████░░░░░░░░░   64.31 % 
+C++                      22 mins             ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+CMake                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 18 mins        ███████████████████████░░   90.45 % 
+Codex Vscode             8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tiny-agent               1 hr 15 mins        ██████████████████████░░░   86.61 % 
+01-token-vector-cmake    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+cpp_base                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+demo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 18 mins (90.52%)
+
+✍️ 40 lines written by AI, 15 lines written by hand (72.73% AI-written)
+
+🔤 794,284 Input Tokens, 70,593 Output Tokens
+
+💵 $5.78 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 25 AI Prompts
+
+GPT                      40 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 72.73% of written lines came from AI
+📝 Concise Prompter — average 61 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 28.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -112,7 +136,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 00:19:32 UTC
+ Last Updated on 19/10/2026 00:34:26 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
