@@ -32,15 +32,15 @@ const konodioda727 = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C516%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-297%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 257.3 kB Used in GitHub's Storage 
+> 📦 257.4 kB Used in GitHub's Storage 
  > 
 > 🏆 209 Contributions in the Year 2026
  > 
@@ -77,46 +77,47 @@ Sunday                   2583 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     55 mins             ████████████████░░░░░░░░░   64.31 % 
-C++                      22 mins             ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-CMake                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JSON                     55 mins             ██████████░░░░░░░░░░░░░░░   38.70 % 
+CSS                      38 mins             ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+C++                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        ███████████████████████░░   90.45 % 
-Codex Vscode             8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+VS Code                  2 hrs 15 mins       ████████████████████████░   94.25 % 
+Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🐱‍💻 Projects: 
-tiny-agent               1 hr 15 mins        ██████████████████████░░░   86.61 % 
-01-token-vector-cmake    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-cpp_base                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-demo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+tiny-agent               1 hr 15 mins        █████████████░░░░░░░░░░░░   52.12 % 
+demo                     57 mins             ██████████░░░░░░░░░░░░░░░   40.00 % 
+01-token-vector-cmake    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+cpp_base                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+chatgpt                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (90.52%)
+⏱ AI Coding Time: 2 hrs 15 mins (94.3%)
 
-✍️ 40 lines written by AI, 15 lines written by hand (72.73% AI-written)
+✍️ 522 lines written by AI, 15 lines written by hand (97.21% AI-written)
 
-🔤 794,284 Input Tokens, 70,593 Output Tokens
+🔤 1,595,350 Input Tokens, 129,916 Output Tokens
 
-💵 $5.78 Estimated AI Cost This Week
+💵 $17.93 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 25 AI Prompts
+🧠 5 AI Sessions, 30 AI Prompts
 
-GPT                      40 lines            █████████████████████████   100.00 % 
+GPT                      557 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.73% of written lines came from AI
-📝 Concise Prompter — average 61 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 28.57% of changed lines were hand-edited
+🤖 AI-Driven — 97.21% of written lines came from AI
+📝 Concise Prompter — average 87 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +137,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 00:34:26 UTC
+ Last Updated on 20/10/2026 02:34:03 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
