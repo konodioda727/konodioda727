@@ -36,7 +36,7 @@ const konodioda727 = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-297%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -77,46 +77,45 @@ Sunday                   2583 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     55 mins             ██████████░░░░░░░░░░░░░░░   38.70 % 
-CSS                      38 mins             ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-C++                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+JSON                     55 mins             ██████████░░░░░░░░░░░░░░░   39.00 % 
+CSS                      38 mins             ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+C++                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       ████████████████████████░   94.25 % 
-Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+VS Code                  2 hrs 14 mins       ████████████████████████░   94.21 % 
+Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🐱‍💻 Projects: 
-tiny-agent               1 hr 15 mins        █████████████░░░░░░░░░░░░   52.12 % 
-demo                     57 mins             ██████████░░░░░░░░░░░░░░░   40.00 % 
-01-token-vector-cmake    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-cpp_base                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-chatgpt                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+tiny-agent               1 hr 15 mins        █████████████░░░░░░░░░░░░   52.52 % 
+demo                     57 mins             ██████████░░░░░░░░░░░░░░░   40.31 % 
+01-token-vector-cmake    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+cpp_base                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 Operating System: 
-Mac                      2 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 15 mins (94.3%)
+⏱ AI Coding Time: 2 hrs 14 mins (94.25%)
 
 ✍️ 522 lines written by AI, 15 lines written by hand (97.21% AI-written)
 
-🔤 1,595,350 Input Tokens, 129,916 Output Tokens
+🔤 1,372,315 Input Tokens, 128,663 Output Tokens
 
-💵 $17.93 Estimated AI Cost This Week
+💵 $16.57 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 30 AI Prompts
+🧠 4 AI Sessions, 30 AI Prompts
 
 GPT                      557 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.21% of written lines came from AI
 📝 Concise Prompter — average 87 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 2.79% of changed lines were hand-edited
 ```
 
@@ -137,7 +136,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 02:34:03 UTC
+ Last Updated on 21/10/2026 01:38:59 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
