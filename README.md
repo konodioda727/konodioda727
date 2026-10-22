@@ -77,46 +77,46 @@ Sunday                   2583 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     55 mins             ██████████░░░░░░░░░░░░░░░   39.00 % 
-CSS                      38 mins             ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-C++                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+JSON                     55 mins             ████████████████░░░░░░░░░   64.31 % 
+C++                      22 mins             ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+CMake                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       ████████████████████████░   94.21 % 
-Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+VS Code                  1 hr 18 mins        ███████████████████████░░   90.45 % 
+Codex Vscode             8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🐱‍💻 Projects: 
-tiny-agent               1 hr 15 mins        █████████████░░░░░░░░░░░░   52.52 % 
-demo                     57 mins             ██████████░░░░░░░░░░░░░░░   40.31 % 
-01-token-vector-cmake    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-cpp_base                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+tiny-agent               1 hr 15 mins        ██████████████████████░░░   86.61 % 
+01-token-vector-cmake    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+cpp_base                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+demo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (94.25%)
+⏱ AI Coding Time: 1 hr 18 mins (90.52%)
 
-✍️ 522 lines written by AI, 15 lines written by hand (97.21% AI-written)
+✍️ 40 lines written by AI, 15 lines written by hand (72.73% AI-written)
 
-🔤 1,372,315 Input Tokens, 128,663 Output Tokens
+🔤 794,284 Input Tokens, 70,593 Output Tokens
 
-💵 $16.57 Estimated AI Cost This Week
+💵 $5.78 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 30 AI Prompts
+🧠 2 AI Sessions, 25 AI Prompts
 
-GPT                      557 lines           █████████████████████████   100.00 % 
+GPT                      40 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.21% of written lines came from AI
-📝 Concise Prompter — average 87 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.79% of changed lines were hand-edited
+🤖 AI-Driven — 72.73% of written lines came from AI
+📝 Concise Prompter — average 61 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 28.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +136,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 01:38:59 UTC
+ Last Updated on 22/10/2026 02:00:44 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
