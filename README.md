@@ -36,7 +36,7 @@ const konodioda727 = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-297%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -77,46 +77,47 @@ Sunday                   2583 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     55 mins             ████████████████░░░░░░░░░   64.31 % 
-C++                      22 mins             ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-CMake                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Python                   4 hrs 28 mins       ██████████████████████░░░   86.53 % 
+Other                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        ███████████████████████░░   90.45 % 
-Codex Vscode             8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+VS Code                  5 hrs               ████████████████████████░   96.79 % 
+Codex Vscode             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🐱‍💻 Projects: 
-tiny-agent               1 hr 15 mins        ██████████████████████░░░   86.61 % 
-01-token-vector-cmake    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-cpp_base                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-demo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+tiny-agent               2 hrs 37 mins       █████████████░░░░░░░░░░░░   50.76 % 
+my-tiny-sglang           2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.86 % 
+chatgpt                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+he-l                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+demo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (90.52%)
+⏱ AI Coding Time: 3 hrs 2 mins (58.59%)
 
-✍️ 40 lines written by AI, 15 lines written by hand (72.73% AI-written)
+✍️ 8 lines written by AI, 385 lines written by hand (2.04% AI-written)
 
-🔤 794,284 Input Tokens, 70,593 Output Tokens
+🔤 3,867,116 Input Tokens, 245,340 Output Tokens
 
-💵 $5.78 Estimated AI Cost This Week
+💵 $20.51 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 25 AI Prompts
+🧠 12 AI Sessions, 33 AI Prompts
 
-GPT                      40 lines            █████████████████████████   100.00 % 
+GPT                      8 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.73% of written lines came from AI
-📝 Concise Prompter — average 61 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 28.57% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.04% of written lines came from AI
+📝 Concise Prompter — average 102 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 98.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +137,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 00:58:17 UTC
+ Last Updated on 26/10/2026 00:58:07 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
