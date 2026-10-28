@@ -32,9 +32,9 @@ const konodioda727 = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -77,45 +77,45 @@ Sunday                   2583 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 42 mins       █████████████████████░░░░   83.12 % 
-Other                    39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Python                   4 hrs 6 mins        █████████████████████░░░░   83.87 % 
+Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 12 mins       ████████████████████████░   94.60 % 
-Codex Vscode             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+VS Code                  4 hrs 39 mins       ████████████████████████░   95.09 % 
+Codex Vscode             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 🐱‍💻 Projects: 
-my-tiny-sglang           2 hrs 30 mins       ██████████████░░░░░░░░░░░   56.46 % 
-tiny-agent               1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.99 % 
-he-l                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-chatgpt                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+my-tiny-sglang           2 hrs 58 mins       ███████████████░░░░░░░░░░   60.79 % 
+tiny-agent               1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   35.43 % 
+he-l                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+chatgpt                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 4 mins (46.67%)
+⏱ AI Coding Time: 2 hrs 14 mins (45.56%)
 
-✍️ 0 lines written by AI, 422 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 505 lines written by hand (0.0% AI-written)
 
-🔤 3,099,794 Input Tokens, 196,164 Output Tokens
+🔤 2,887,433 Input Tokens, 197,078 Output Tokens
 
-💵 $14.56 Estimated AI Cost This Week
+💵 $13.61 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 22 AI Prompts
+🧠 10 AI Sessions, 28 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 158 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 352 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -136,7 +136,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 02:51:29 UTC
+ Last Updated on 28/10/2026 02:33:59 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
