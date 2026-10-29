@@ -32,9 +32,9 @@ const konodioda727 = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -77,46 +77,46 @@ Sunday                   2583 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 6 mins        █████████████████████░░░░   83.87 % 
-Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   5 hrs 32 mins       █████████████████████░░░░   83.29 % 
+Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 39 mins       ████████████████████████░   95.09 % 
-Codex Vscode             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+VS Code                  5 hrs 51 mins       ██████████████████████░░░   88.19 % 
+Codex Vscode             47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 
 🐱‍💻 Projects: 
-my-tiny-sglang           2 hrs 58 mins       ███████████████░░░░░░░░░░   60.79 % 
-tiny-agent               1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   35.43 % 
-he-l                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-chatgpt                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+my-tiny-sglang           4 hrs 43 mins       ██████████████████░░░░░░░   71.10 % 
+tiny-agent               1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+he-l                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+chatgpt                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Mac                      4 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (45.56%)
+⏱ AI Coding Time: 3 hrs 2 mins (45.66%)
 
-✍️ 0 lines written by AI, 505 lines written by hand (0.0% AI-written)
+✍️ 56 lines written by AI, 688 lines written by hand (7.53% AI-written)
 
-🔤 2,887,433 Input Tokens, 197,078 Output Tokens
+🔤 2,902,359 Input Tokens, 205,386 Output Tokens
 
-💵 $13.61 Estimated AI Cost This Week
+💵 $13.78 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 28 AI Prompts
+🧠 11 AI Sessions, 40 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      56 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 352 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 7.53% of written lines came from AI
+📄 Detailed Prompter — average 561 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 93.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +136,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 02:33:59 UTC
+ Last Updated on 29/10/2026 02:59:10 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
