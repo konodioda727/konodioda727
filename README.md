@@ -32,9 +32,9 @@ const konodioda727 = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C523%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -104,11 +104,11 @@ Mac                      6 hrs 39 mins       ███████████�
 
 ✍️ 56 lines written by AI, 688 lines written by hand (7.53% AI-written)
 
-🔤 2,902,359 Input Tokens, 205,386 Output Tokens
+🔤 2,772,202 Input Tokens, 205,236 Output Tokens
 
-💵 $13.78 Estimated AI Cost This Week
+💵 $13.25 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 40 AI Prompts
+🧠 10 AI Sessions, 40 AI Prompts
 
 GPT                      56 lines            █████████████████████████   100.00 % 
 
@@ -136,7 +136,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 02:59:10 UTC
+ Last Updated on 30/10/2026 03:20:40 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
