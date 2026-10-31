@@ -77,38 +77,38 @@ Sunday                   2583 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 32 mins       █████████████████████░░░░   83.29 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Python                   5 hrs 32 mins       █████████████████████░░░░   83.42 % 
+Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 51 mins       ██████████████████████░░░   88.19 % 
-Codex Vscode             47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+VS Code                  5 hrs 51 mins       ██████████████████████░░░   88.17 % 
+Codex Vscode             47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 
 🐱‍💻 Projects: 
-my-tiny-sglang           4 hrs 43 mins       ██████████████████░░░░░░░   71.10 % 
-tiny-agent               1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+my-tiny-sglang           4 hrs 43 mins       ██████████████████░░░░░░░   71.20 % 
+tiny-agent               1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   26.15 % 
 he-l                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-chatgpt                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+chatgpt                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-Mac                      6 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 2 mins (45.66%)
+⏱ AI Coding Time: 3 hrs 1 min (45.58%)
 
 ✍️ 56 lines written by AI, 688 lines written by hand (7.53% AI-written)
 
-🔤 2,772,202 Input Tokens, 205,236 Output Tokens
+🔤 2,510,573 Input Tokens, 204,973 Output Tokens
 
-💵 $13.25 Estimated AI Cost This Week
+💵 $12.10 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 40 AI Prompts
+🧠 9 AI Sessions, 40 AI Prompts
 
 GPT                      56 lines            █████████████████████████   100.00 % 
 
@@ -136,7 +136,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/konodioda727/konodioda727/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 03:20:40 UTC
+ Last Updated on 31/10/2026 02:42:47 UTC
 <!--END_SECTION:waka-->
   
   - 🔭 I’m currently a student from CCNU
